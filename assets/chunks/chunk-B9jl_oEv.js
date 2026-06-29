@@ -1,0 +1,1 @@
+import{r as a,j as o}from"./chunk-CFv_VfyJ.js";const f=a.forwardRef((r,s)=>o.jsx("body",{...r,ref:s}));f.displayName="Body";const e=a.forwardRef((r,s)=>o.jsx("b",{...r,ref:s}));e.displayName="Bold";export{e as a,f};
